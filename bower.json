@@ -1,0 +1,16 @@
+{
+  "name": "bower_my_class",
+  "version": "0.0.1",
+  "authors": [
+    "qihong <qihongbin@163.com>"
+  ],
+  "license": "MIT",
+  "homepage": "aaa",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
